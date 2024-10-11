@@ -52,7 +52,7 @@
   --accordion-title-hover-marker-color: var(--base04);
 
   --card-shadow: 0px 2px 1px -1px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%);
-  --card-bg: var(--base00);
+  --card-bg: var(--base01);
   --card-radius: 4px;
 
   --footer-color: var(--base04);
