@@ -31,10 +31,10 @@
   --font-size-s: 1.2rem;
 
   /**
-   * Components
+   * Components --body-bg: var(--base01);
    */
   --body-color: var(--base04);
-  --body-bg: var(--base01);
+  --body-bg: #fff ;
 
   --daily-heading-color: var(--base04);
 
