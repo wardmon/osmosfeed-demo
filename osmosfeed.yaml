@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://wardmon.github.io/osmosfeed-demo/cache.json
 sources:
   - href: http://feed.smzdm.com
   - href: https://weekly.howie6879.com/rss/rss.xml
