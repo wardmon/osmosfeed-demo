@@ -2,10 +2,321 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wardmon.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T01:24:40.477Z</updated>
+    <updated>2024-11-07T01:25:12.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wardmon.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://wardmon.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[88VIP：Kong WENG 港荣 淡糖蒸蛋糕 800g 10.62元（需买2件，需用券）]]></title>
+        <id>https://www.smzdm.com/p/131892299/</id>
+        <link href="https://www.smzdm.com/p/131892299/"/>
+        <updated>2024-11-07T09:23:33.000Z</updated>
+        <summary type="html"><![CDATA[信小兔]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[88VIP：a1 夹馅吐司 西瓜味 11.7元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131891477/</id>
+        <link href="https://www.smzdm.com/p/131891477/"/>
+        <updated>2024-11-07T09:23:09.000Z</updated>
+        <summary type="html"><![CDATA[Mr兔斯基yyds]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huishan 辉山 纯牛奶200ml*24盒 21.01元]]></title>
+        <id>https://www.smzdm.com/p/131890982/</id>
+        <link href="https://www.smzdm.com/p/131890982/"/>
+        <updated>2024-11-07T09:22:41.000Z</updated>
+        <summary type="html"><![CDATA[信小兔]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PLUS会员：Pigeon 贝亲 自然实感第三代FUN系列 AA222 PPSU奶瓶 彩绘款 330ml 淑女豹 L码 6月+ 90.45元（双重优惠）]]></title>
+        <id>https://www.smzdm.com/p/131898972/</id>
+        <link href="https://www.smzdm.com/p/131898972/"/>
+        <updated>2024-11-07T09:22:28.000Z</updated>
+        <summary type="html"><![CDATA[是晨曦的曦]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mr.Seafood 京鲜生 陕西翠香绿心猕猴桃 15粒单果90-110g  新鲜水果  源头直发 20.67元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131890541/</id>
+        <link href="https://www.smzdm.com/p/131890541/"/>
+        <updated>2024-11-07T09:22:11.000Z</updated>
+        <summary type="html"><![CDATA[佛系辣妈]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒鬼花生 酒鬼 麻辣花生米 325g（65g*5袋） 9.22元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131888831/</id>
+        <link href="https://www.smzdm.com/p/131888831/"/>
+        <updated>2024-11-07T09:21:25.000Z</updated>
+        <summary type="html"><![CDATA[黑的冒烟]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SIXSEX 第六感 冰火情趣超薄安全套组合 48只 19.9元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131877918/</id>
+        <link href="https://www.smzdm.com/p/131877918/"/>
+        <updated>2024-11-07T09:21:09.000Z</updated>
+        <summary type="html"><![CDATA[直若曲808一套组合，多重体验~温馨告示：1、本商品为成人用品，未成年人（18岁以下）请勿浏览购买。2、为确保用户隐私受到保护，本商品采取了严密包装和保密发货措施。]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lay's 乐事 无限薯片组合装104g*3桶  312g 9.15元（需买2件，需用券）]]></title>
+        <id>https://www.smzdm.com/p/131888802/</id>
+        <link href="https://www.smzdm.com/p/131888802/"/>
+        <updated>2024-11-07T09:21:03.000Z</updated>
+        <summary type="html"><![CDATA[快乐柠檬水]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHINY MEADOW 每日鲜语 鲜牛奶185ml*6瓶+高钙有机250ml*7瓶 47.9元]]></title>
+        <id>https://www.smzdm.com/p/131888141/</id>
+        <link href="https://www.smzdm.com/p/131888141/"/>
+        <updated>2024-11-07T09:20:05.000Z</updated>
+        <summary type="html"><![CDATA[大米娅]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[威猛先生 洁厕剂 480g*3瓶 12.82元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131897011/</id>
+        <link href="https://www.smzdm.com/p/131897011/"/>
+        <updated>2024-11-07T08:59:13.000Z</updated>
+        <summary type="html"><![CDATA[猪爬树]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[adidas ORIGINALS 女款休闲圆领运动套头衫 139元包邮]]></title>
+        <id>https://www.smzdm.com/p/131896980/</id>
+        <link href="https://www.smzdm.com/p/131896980/"/>
+        <updated>2024-11-07T08:59:07.000Z</updated>
+        <summary type="html"><![CDATA[泰兴人]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[凤祥食品 ishape 优形 谷蔬豆皮鸡肉卷 50g*10袋 10.24元（需买6件，需用券）]]></title>
+        <id>https://www.smzdm.com/p/131896916/</id>
+        <link href="https://www.smzdm.com/p/131896916/"/>
+        <updated>2024-11-07T08:57:27.000Z</updated>
+        <summary type="html"><![CDATA[JLXjlx1991]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CAMEL 骆驼 断码清仓！户外登山休闲运动鞋 F23B097002 99.07元（需买2件，需用券）]]></title>
+        <id>https://www.smzdm.com/p/131896718/</id>
+        <link href="https://www.smzdm.com/p/131896718/"/>
+        <updated>2024-11-07T08:55:10.000Z</updated>
+        <summary type="html"><![CDATA[阿梓买买买]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京东京造 吹风机架 壁挂置物架 挂式浴室收纳 吹风机架-99%适配 1.9元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131894811/</id>
+        <link href="https://www.smzdm.com/p/131894811/"/>
+        <updated>2024-11-07T08:22:15.000Z</updated>
+        <summary type="html"><![CDATA[败家娘子]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAMSUNG 三星 Galaxy Buds3 Pro 入耳式真无线主动降噪蓝牙耳机 流沙白 1065.7元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131894804/</id>
+        <link href="https://www.smzdm.com/p/131894804/"/>
+        <updated>2024-11-07T08:22:10.000Z</updated>
+        <summary type="html"><![CDATA[kevinlee_9]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[88VIP：Stride 炫迈 无糖口香糖 56g*4瓶 约160粒 16.65元]]></title>
+        <id>https://www.smzdm.com/p/131894798/</id>
+        <link href="https://www.smzdm.com/p/131894798/"/>
+        <updated>2024-11-07T08:21:21.000Z</updated>
+        <summary type="html"><![CDATA[柒大爷]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hisense 海信 电视55E3ND Pro 55英寸 144Hz高刷 AI语音 超薄大屏平板电视机 能效补贴 E3N Pro升级款 55英寸 1172.15元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131894754/</id>
+        <link href="https://www.smzdm.com/p/131894754/"/>
+        <updated>2024-11-07T08:21:10.000Z</updated>
+        <summary type="html"><![CDATA[值友2669036035]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUPOR 苏泊尔 电饼铛家用 电饼档 煎饼锅 煎烤机烙饼锅三明治机 加深 早餐机 烤肉锅 JJ30A645 93.6元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131894751/</id>
+        <link href="https://www.smzdm.com/p/131894751/"/>
+        <updated>2024-11-07T08:21:08.000Z</updated>
+        <summary type="html"><![CDATA[nuaayi]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小天鹅 波轮洗衣机全自动12公斤大容量免清洗不锈钢内桶 深层除螨洗 双层平衡桶 TB120-1808B 742.97元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131894715/</id>
+        <link href="https://www.smzdm.com/p/131894715/"/>
+        <updated>2024-11-07T08:20:16.000Z</updated>
+        <summary type="html"><![CDATA[吖毛]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SATCHI 沙驰 男士休闲皮鞋   402262205Z 238.51元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131894698/</id>
+        <link href="https://www.smzdm.com/p/131894698/"/>
+        <updated>2024-11-07T08:20:13.000Z</updated>
+        <summary type="html"><![CDATA[小值姐姐]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHEERS 芝华仕 K621 单人电动沙发 蒂芙尼蓝 1682.15元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131894718/</id>
+        <link href="https://www.smzdm.com/p/131894718/"/>
+        <updated>2024-11-07T08:20:10.000Z</updated>
+        <summary type="html"><![CDATA[摇呀摇呀摇]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[88VIP：Vinda 维达 棉韧压花抽纸 3层100抽30包（133*195mm） 33.15元]]></title>
+        <id>https://www.smzdm.com/p/131894427/</id>
+        <link href="https://www.smzdm.com/p/131894427/"/>
+        <updated>2024-11-07T08:20:02.000Z</updated>
+        <summary type="html"><![CDATA[墨问莫子涵丶]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[老管家 管家 多用途衣物家居消毒液1L 5.9元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131893762/</id>
+        <link href="https://www.smzdm.com/p/131893762/"/>
+        <updated>2024-11-07T08:20:02.000Z</updated>
+        <summary type="html"><![CDATA[大肯]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百亿补贴：Xiaomi 小米 14 5G手机 16GB+512GB 骁龙8Gen3 3569元]]></title>
+        <id>https://www.smzdm.com/p/131894662/</id>
+        <link href="https://www.smzdm.com/p/131894662/"/>
+        <updated>2024-11-07T08:19:15.000Z</updated>
+        <summary type="html"><![CDATA[ice-bin]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panasonic 松下 电动牙刷牙医磁悬浮马达抑菌多效刷头DC02升级款DC031白 抗菌护龈刷DC031白 119.35元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131894682/</id>
+        <link href="https://www.smzdm.com/p/131894682/"/>
+        <updated>2024-11-07T08:18:21.000Z</updated>
+        <summary type="html"><![CDATA[小小姨妈]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[移动端、京东百亿补贴：TCL 电视 75T5K 75英寸 QLED量子点 安桥2.1声道音响 超薄 4+64GB大内存 客厅液晶智能平板游戏电视机 2398.4元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131894654/</id>
+        <link href="https://www.smzdm.com/p/131894654/"/>
+        <updated>2024-11-07T08:18:21.000Z</updated>
+        <summary type="html"><![CDATA[值友2669036035]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国移动 200元（1～24小时内到账） 194.95元]]></title>
+        <id>https://www.smzdm.com/p/131894620/</id>
+        <link href="https://www.smzdm.com/p/131894620/"/>
+        <updated>2024-11-07T08:18:09.000Z</updated>
+        <summary type="html"><![CDATA[奶茶不太甜]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move Free 益节 氨糖软骨素钙片绿瓶 120粒 维骨力MSM 补氨基葡萄糖 骨维力 *2瓶 121.5元（需买2件，需用券）]]></title>
+        <id>https://www.smzdm.com/p/131879839/</id>
+        <link href="https://www.smzdm.com/p/131879839/"/>
+        <updated>2024-11-07T07:52:12.000Z</updated>
+        <summary type="html"><![CDATA[取西经的白骨精]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超能 浓缩天然皂粉 1.5kg 青柠罗勒香 17.56元（需用券）]]></title>
+        <id>https://www.smzdm.com/p/131892092/</id>
+        <link href="https://www.smzdm.com/p/131892092/"/>
+        <updated>2024-11-07T07:20:11.000Z</updated>
+        <summary type="html"><![CDATA[情迷英伦]]></summary>
+        <author>
+            <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use LangChain and GPT to Analyze Multiple Documents]]></title>
+        <id>672b941f0c32c8c8cd6159a9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-langchain-and-gpt-to-analyze-multiple-documents/"/>
+        <updated>2024-11-06T16:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Over the past year or so, the developer universe has exploded with ingenious new tools, applications, and processes for working with large language models and generative AI. One particularly versatile example is the LangChain project. The overall goa...]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Popping Comments With CSS Anchor Positioning and View-Driven Animations]]></title>
+        <id>https://css-tricks.com/?p=382247</id>
+        <link href="https://css-tricks.com/popping-comments-with-css-anchor-positioning-and-view-driven-animations/"/>
+        <updated>2024-11-06T15:31:20.000Z</updated>
+        <summary type="html"><![CDATA[The State of CSS 2024 survey wrapped up and the results are interesting, as always. Even though each section is worth analyzing, we are usually most hyped about the section on the most used CSS features. And if you …
+Popping Comments With CSS Anchor Positioning and View-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[限地区、以旧换新补贴：Apple 苹果 Mac mini 2024款 迷你台式机（M4、16GB、256GB） 3578.81元（需用券）]]></title>
         <id>https://www.smzdm.com/p/131619425/</id>
@@ -184,6 +495,25 @@
         <summary type="html"><![CDATA[爽呀]]></summary>
         <author>
             <name>什么值得买</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产技术之光！这个技术正被海外巨头玩得风生水起]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5NDMwMTI2MA==&amp;mid=2651682420&amp;idx=1&amp;sn=7d6c1796b7c01afdfe8a15b944e456f9&amp;chksm=bd7002578a078b417263b9295d975b39d1ff35e74a62efe8c7ab6c087e2b5a3c69b791da822d&amp;scene=58&amp;subscene=0#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5NDMwMTI2MA==&amp;mid=2651682420&amp;idx=1&amp;sn=7d6c1796b7c01afdfe8a15b944e456f9&amp;chksm=bd7002578a078b417263b9295d975b39d1ff35e74a62efe8c7ab6c087e2b5a3c69b791da822d&amp;scene=58&amp;subscene=0#rd"/>
+        <updated>2024-11-06T08:21:00.000Z</updated>
+        <summary type="html"><![CDATA[‍近期，发现一个有意思的现象，小程序正被外国公司玩得风生水起！]]></summary>
+        <author>
+            <name>小众软件</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[另外两件事[24116]]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5NDMwMTI2MA==&amp;mid=2651682420&amp;idx=2&amp;sn=7e0d205b5231aab550a8b7917f8bd9cd&amp;chksm=bd7002578a078b412cc0022d3488dbde28ec0715efe0535843fc1c4709f7427f4e0be4070044&amp;scene=58&amp;subscene=0#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5NDMwMTI2MA==&amp;mid=2651682420&amp;idx=2&amp;sn=7e0d205b5231aab550a8b7917f8bd9cd&amp;chksm=bd7002578a078b412cc0022d3488dbde28ec0715efe0535843fc1c4709f7427f4e0be4070044&amp;scene=58&amp;subscene=0#rd"/>
+        <updated>2024-11-06T08:21:00.000Z</updated>
+        <author>
+            <name>小众软件</name>
         </author>
     </entry>
     <entry>
@@ -9457,46 +9787,6 @@ WPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published
 Smashing Hour With Heydon Pickering originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[啊哈哈哈哈，我的那些网址终于有地方存了。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5NDMwMTI2MA==&amp;mid=2651682013&amp;idx=1&amp;sn=801a0ac49f04f9d5edaece665f3940b2&amp;chksm=bd7000fe8a0789e8e356b172bd319a1d15355147610fb2458dd3cae29b6d1f8ad92495246b0a&amp;scene=58&amp;subscene=0#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5NDMwMTI2MA==&amp;mid=2651682013&amp;idx=1&amp;sn=801a0ac49f04f9d5edaece665f3940b2&amp;chksm=bd7000fe8a0789e8e356b172bd319a1d15355147610fb2458dd3cae29b6d1f8ad92495246b0a&amp;scene=58&amp;subscene=0#rd"/>
-        <updated>2024-10-07T21:44:00.000Z</updated>
-        <author>
-            <name>小众软件</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[另外两件事[24107]]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5NDMwMTI2MA==&amp;mid=2651682013&amp;idx=2&amp;sn=4154ea5aec0f9871fdb710cf1eca8782&amp;chksm=bd7000fe8a0789e8e3bbb5a71d7538a0cd8446429c4bf124f445d6e540d29388a24649d010b6&amp;scene=58&amp;subscene=0#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5NDMwMTI2MA==&amp;mid=2651682013&amp;idx=2&amp;sn=4154ea5aec0f9871fdb710cf1eca8782&amp;chksm=bd7000fe8a0789e8e3bbb5a71d7538a0cd8446429c4bf124f445d6e540d29388a24649d010b6&amp;scene=58&amp;subscene=0#rd"/>
-        <updated>2024-10-07T21:44:00.000Z</updated>
-        <author>
-            <name>小众软件</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recipes for Detecting Support for CSS At-Rules]]></title>
-        <id>https://css-tricks.com/?p=381674</id>
-        <link href="https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/"/>
-        <updated>2024-10-07T19:46:07.000Z</updated>
-        <summary type="html"><![CDATA[The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using …
-Recipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Searching for a New CSS Logo]]></title>
-        <id>https://css-tricks.com/?p=381662</id>
-        <link href="https://css-tricks.com/searching-for-a-new-css-logo/"/>
-        <updated>2024-10-07T16:49:59.000Z</updated>
-        <summary type="html"><![CDATA[There is an amazing community effort happening in search of a new logo for CSS. I was a bit skeptical at first, as I never really considered CSS a “brand.” Why does it need a logo? For starters, the current …
-Searching for a New CSS Logo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
         </author>
     </entry>
 </feed>
